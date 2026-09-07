@@ -8,7 +8,7 @@ Especialista em **Cibersegurança** e **Automação de Negócios / IA**, focada 
 
 ### 🎓 Formação Acadêmica
 
-- 🛡️ **Pós-Graduação em Cibersegurança**
+- 🛡️ ** Graduada em Cibersegurança**
 - 🤖 **Pós-Graduação em Automação de Negócios e Inteligência Artificial**
 
 ---
