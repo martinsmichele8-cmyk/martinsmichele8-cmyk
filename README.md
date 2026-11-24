@@ -1,36 +1,38 @@
-# Apresentação - Michele Martins
-
 # Olá, eu sou Michele Martins de Oliveira 👋
 
-Especialista em **Cibersegurança** e **Automação de Negócios / IA**, focada em criar soluções eficientes, seguras e automatizadas.
+**Engenheira de Software & Arquiteta de Soluções** | **Automação de Negócios & IA** | **Security by Design**
+
+Focada em desenhar e desenvolver sistemas integrados, fluxos automatizados e agentes inteligentes utilizando Python — unindo visão estratégica de negócios, código estruturado e segurança desde a concepção.
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🏗️ Áreas de Atuação
 
-- 🛡️ ** Graduada em Cibersegurança**
-- 🤖 **Pós-Graduação em Automação de Negócios e Inteligência Artificial**
+- 🧩 **Arquitetura & Engenharia de Software:** Desenho de sistemas, estruturação de APIs, integração de serviços e desenvolvimento back-end escalável.
+- ⚡ **Automação de Processos & Integrações:** Criação de ecossistemas automatizados para otimizar operações e resolver gargalos reais.
+- 🧠 **Soluções baseadas em Inteligência Artificial:** Desenvolvimento e orquestração de agentes inteligentes e fluxos com IA.
+- 🔐 **Cibersegurança & Security by Design:** Aplicação de boas práticas de proteção de dados, análise de riscos e fatores humanos diretamente na arquitetura dos sistemas.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas Principais
 
-#### **Linguagens Principais**
+#### **Linguagens & Desenvolvimento**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### **Automação & Outras Ferramentas**
+#### **Infraestrutura, Automação & Versionamento**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📌 Áreas de Atuação
+### 🎓 Formação Acadêmica
 
-- 🔐 **Segurança da Informação / Bug Bounty / Cibersegurança**
-- ⚡ **Automação de Processos & Integrações**
-- 🧠 **Soluções baseadas em Inteligência Artificial**
+- 🤖 **Pós-Graduação em Automação de Negócios e Inteligência Artificial** — UNIFACE
+- 🛡️ **Graduação em Cibersegurança** — UNINOVE
+- 💻 **Formação Técnica Multidisciplinar (TI, Segurança & Fator Humano)** — Anhanguera
 
 ---
 
@@ -46,3 +48,4 @@ Especialista em **Cibersegurança** e **Automação de Negócios / IA**, focada 
 
 - 💼 [LinkedIn](https://linkedin.com/in/martinsmichele8)
 - 📧 Email: martinsmichele8@gmail.com
+- 
